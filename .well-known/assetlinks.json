@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.tomkruisselbrink.twa",
+        "sha256_cert_fingerprints": ["0B:7C:5C:38:80:01:ED:42:CD:D7:ED:32:52:E9:4C:3B:39:A2:85:94:AA:7F:F7:48:E0:9D:E4:44:57:68:D7:DA"]
+      }
+    }]
